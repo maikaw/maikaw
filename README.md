@@ -1,6 +1,5 @@
 <p align="center">
-  <img src="[YOUR_IMAGE_LINK_HERE](https://github.com/maikaw/maikaw/blob/main/maikaw.png?raw=true
-)" width="100%">
+  <img src="https://github.com/maikaw/maikaw/blob/main/maikaw.png?raw=true" width="100%">
 </p>
 
 ## ✨ hi idk what i'm doing  
