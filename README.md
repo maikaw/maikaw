@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="[YOUR_IMAGE_LINK_HERE](https://github.com/maikaw/maikaw/blob/main/maikaw.png?raw=true
+)" width="100%">
+</p>
+
 ## ✨ hi idk what i'm doing  
 **i am not a developer** but somehow i write code. it works (most of the time).   
 i debug with **vibes** and **hope**.  
