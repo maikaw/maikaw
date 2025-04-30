@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/maikaw/maikaw/blob/main/maikaw.png?raw=true" width="100%">
+  <img src="https://github.com/maikaw/maikaw/blob/main/banner2.png?raw=true" width="100%">
 </p>
 
 ### ✨ who am i?
